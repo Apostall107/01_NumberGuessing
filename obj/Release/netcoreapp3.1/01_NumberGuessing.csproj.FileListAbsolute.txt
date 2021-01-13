@@ -1,0 +1,12 @@
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\bin\Release\netcoreapp3.1\01_NumberGuessing.exe
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\bin\Release\netcoreapp3.1\01_NumberGuessing.deps.json
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\bin\Release\netcoreapp3.1\01_NumberGuessing.runtimeconfig.json
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\bin\Release\netcoreapp3.1\01_NumberGuessing.runtimeconfig.dev.json
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\bin\Release\netcoreapp3.1\01_NumberGuessing.dll
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\bin\Release\netcoreapp3.1\01_NumberGuessing.pdb
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\obj\Release\netcoreapp3.1\01_NumberGuessing.AssemblyInfoInputs.cache
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\obj\Release\netcoreapp3.1\01_NumberGuessing.AssemblyInfo.cs
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\obj\Release\netcoreapp3.1\01_NumberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\obj\Release\netcoreapp3.1\01_NumberGuessing.dll
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\obj\Release\netcoreapp3.1\01_NumberGuessing.pdb
+C:\Users\Apostall107\source\repos\PET\01_NumberGuessing\obj\Release\netcoreapp3.1\01_NumberGuessing.genruntimeconfig.cache
